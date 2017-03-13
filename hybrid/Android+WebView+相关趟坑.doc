@@ -1,0 +1,686 @@
+Message-ID: <11888555.3.1482911979860.JavaMail.root@localhost>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2_20044125.1482911979859"
+
+------=_Part_2_20044125.1482911979859
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Android WebView =E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Android WebView =E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91</h1>
+    <div class=3D"Section1">
+        <div class=3D"wmd-preview-section preview-content">
+<h3 id=3D"AndroidWebView=E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91-1.H5url=E4=BC=
+=A0=E5=8F=82=E5=B5=8C=E5=A5=97url=E7=9A=84=E9=97=AE=E9=A2=98">1. H5 url =E4=
+=BC=A0=E5=8F=82=E5=B5=8C=E5=A5=97 url =E7=9A=84=E9=97=AE=E9=A2=98</h3>
+</div>
+<h4 id=3D"AndroidWebView=E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91-=E9=97=AE=E9=
+=A2=98=E5=9C=BA=E6=99=AF">=E9=97=AE=E9=A2=98=E5=9C=BA=E6=99=AF</h4>
+<div class=3D"wmd-preview-section preview-content">
+<p>&nbsp;</p>
+<p>=E5=9C=A8 BaseH5Activity =E7=9A=84 startWebViewActivity() =E6=96=B9=E6=
+=B3=95=E4=B8=AD=EF=BC=8C=E6=98=AF=E4=BD=BF=E7=94=A8 dispatcher =E8=BF=9B=E8=
+=A1=8C=E9=A1=B5=E9=9D=A2=E8=B7=B3=E8=BD=AC=E7=9A=84=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: true; theme: Emacs" data-theme=3D"Emacs">DisPatcher.open(co=
+ntext, "chinahr://customer/h5page?" +
+      LEOGAO_PAGE + "=3D" + finishpage + "&amp;" + LEOGAO_ACTION + "=3D" + =
+finishaction + ... + =E2=80=9C&amp;=E2=80=9D+INTENT_URL+=E2=80=9D=3D=E2=80=
+=9D + url);</pre>=20
+</div>
+</div>
+<p>=E5=85=B6=E4=B8=AD=EF=BC=9A&nbsp;</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: true; theme: Emacs" data-theme=3D"Emacs">url=EF=BC=9A "file=
+:///android_asset/hybird/cp/index.html?uid=3D=E2=80=9D + cuid +=E2=80=9D&am=
+p;gender=3D=E2=80=9D+gender +=E2=80=9D&amp;photo=3D=E2=80=9D+photoPath"</pr=
+e>=20
+</div>
+</div>
+<p>=E5=90=88=E5=B9=B6=E4=B9=8B=E5=90=8E=EF=BC=8Curl =E6=95=B4=E4=BD=93=E4=
+=B8=BA=EF=BC=9A&nbsp;</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: true; theme: Emacs" data-theme=3D"Emacs">"chinahr://custome=
+r/h5page?" + LEOGAO_PAGE + "=3D" + finishpage + "&amp;" + LEOGAO_ACTION + "=
+=3D" + finishaction + "&amp;" + INTENT_URL + "=3D"
+=09+ "file:///android_asset/hybird/cp/index.html?uid=3D" + cuid + "&amp;gen=
+der=3D" + gender + "&amp;photo=3D" + photoPath"</pre>=20
+</div>
+</div>
+<p>=E6=89=80=E4=BB=A5=E8=BF=99=E4=B8=AA url =E4=B8=AD=E7=9A=84 =E7=AC=AC=E4=
+=BA=8C=E4=B8=AA=E5=8F=8A=E4=BB=A5=E5=90=8E=E7=9A=84=E5=8F=82=E6=95=B0=E7=AC=
+=AC=E4=B8=80=E6=AC=A1=E5=B0=B1=E4=BC=9A=E8=A2=ABrouter=E8=A7=A3=E6=9E=90=EF=
+=BC=8C=E5=B9=B6=E4=B8=8D=E4=BC=9A=E5=B0=86 url =E6=95=B4=E4=BD=93=E4=BD=9C=
+=E4=B8=BA=E4=B8=80=E4=B8=AA=E5=8F=82=E6=95=B0=E4=BC=A0=E5=88=B0=E4=B8=8B=E4=
+=B8=80=E4=B8=AA=E9=A1=B5=E9=9D=A2=E4=B8=AD=E5=8E=BB=E5=86=8D=E6=AC=A1=E8=A7=
+=A3=E6=9E=90=E8=AF=86=E5=88=AB=E3=80=82</p>
+<p>&nbsp;</p>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<h4 id=3D"AndroidWebView=E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91-=E8=A7=A3=E5=
+=86=B3=E6=96=B9=E6=B3=95">=E8=A7=A3=E5=86=B3=E6=96=B9=E6=B3=95</h4>
+<p>=E7=AC=AC=E4=B8=80=E6=AC=A1=E4=BD=BF=E7=94=A8UrlEncoder=E7=BC=96=E7=A0=
+=81=EF=BC=8C=E5=8F=AF=E8=83=BD=E4=BC=9A=E9=80=A0=E6=88=90=E6=B5=8F=E8=A7=88=
+=E5=99=A8=E4=B8=8Ejs=E8=A7=A3=E6=9E=90=E6=95=B0=E6=8D=AE=E4=BC=9A=E5=AD=98=
+=E5=9C=A8=E4=B8=8D=E4=B8=80=E8=87=B4=E7=9A=84=E9=97=AE=E9=A2=98&nbsp;<br>=
+=E6=89=80=E4=BB=A5=E5=85=88=E4=BD=BF=E7=94=A8base64=E8=BF=9B=E8=A1=8C=E7=BC=
+=96=E7=A0=81=E6=9D=A5=E8=A7=A3=E5=86=B3=E6=95=B0=E6=8D=AE=E4=B8=8D=E4=B8=80=
+=E8=87=B4=E7=9A=84=E9=97=AE=E9=A2=98=EF=BC=9B=E5=86=8D=E8=BF=9B=E8=A1=8CUrl=
+Encoder=E7=BC=96=E7=A0=81=EF=BC=88=E4=B8=BA=E4=BA=86=E9=98=B2=E6=AD=A2base6=
+4=E7=BC=96=E7=A0=81=E5=90=8E=E7=9A=84=E6=95=B0=E6=8D=AE=E8=A7=A3=E6=9E=90=
+=E6=97=B6=EF=BC=9A=E2=80=9D+=E2=80=9D =E4=BC=9A=E5=BD=93=E5=81=9A=E7=A9=BA=
+=E6=A0=BC=E7=9A=84=E9=97=AE=E9=A2=98 =EF=BC=89</p>
+<p>=E4=B8=8A=E4=BB=A3=E7=A0=81=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: true; theme: Emacs" data-theme=3D"Emacs">JSONObject jsonObj=
+ect =3D new JSONObject();
+try {
+    jsonObject.put("uid", cUid);
+    jsonObject.put("gender", gender);
+    jsonObject.put("photo", potoPath);
+    paramsResult =3D  URLEncoder.encode(Base64.encodeToString(jsonObject.to=
+String().getBytes(), Base64.DEFAULT));
+} catch (JSONException e) {
+    e.printStackTrace();
+}
+
+BaseH5Activity.startWebViewActivity(this, "file:///android_asset/hybird/cp/=
+index.html?params=3D" + paramsResult, "","","","");</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<h3 id=3D"AndroidWebView=E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91-2.Android5.0=
+=E4=BB=A5=E4=B8=8A=E8=AE=BE=E7=BD=AEcookie=E4=B8=8D=E7=94=9F=E6=95=88">2. A=
+ndroid 5.0 =E4=BB=A5=E4=B8=8A=E8=AE=BE=E7=BD=AEcookie=E4=B8=8D=E7=94=9F=E6=
+=95=88</h3>
+<div class=3D"wmd-preview-section preview-content">
+<span style=3D"color: rgb(112,112,112);font-weight: bold;"><br></span>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<span style=3D"color: rgb(112,112,112);font-weight: bold;">=E9=97=AE=E9=A2=
+=98=E5=9C=BA=E6=99=AF</span>
+</div>
+<p>=E5=AF=B9=E4=BA=8E=E4=B8=80=E8=88=AC=E8=AE=BE=E7=BD=AEcookie=E7=9A=84=E6=
+=96=B9=E5=BC=8F=EF=BC=8C=E4=BD=BF=E7=94=A8 CookieSyncManager =E6=9D=A5=E8=
+=BF=9B=E8=A1=8C=E8=AE=BE=E7=BD=AE=E6=8E=A5=E6=94=B6cookie=EF=BC=8C=E7=BB=99=
+=E6=AF=8F=E4=B8=AA=E8=AF=B7=E6=B1=82=E7=9A=84url =E8=BF=9B=E8=A1=8C cookie=
+=E8=B5=8B=E5=80=BC=E5=8D=B3=E5=8F=AF=E3=80=82</p>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<p>&nbsp;</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: true; theme: Emacs" data-theme=3D"Emacs">CookieSyncManager.=
+createInstance(context);
+CookieManager cookieManager =3D CookieManager.getInstance();
+cookieManager.setAcceptCookie(true);
+cookieManager.setCookie(url, cookieValue);</pre>=20
+</div>
+</div>
+<p>=E4=BD=86=E6=98=AF=EF=BC=8C=E5=AF=B9=E4=BA=8E Android 5.0 =E4=BB=A5=E4=
+=B8=8A=E7=9A=84WebView=EF=BC=8C=E9=BB=98=E8=AE=A4=E5=85=B3=E9=97=AD=E4=BA=
+=86=E6=8E=A5=E6=94=B6=E4=B8=89=E6=96=B9=E8=AE=BE=E7=BD=AEcookie=E7=9A=84=E6=
+=96=B9=E5=BC=8F=EF=BC=8C=E6=89=80=E4=BB=A5=E9=9C=80=E8=A6=81=E5=BC=80=E5=8F=
+=91=E8=80=85=E6=89=8B=E5=8A=A8=E5=BC=80=E5=90=AF</p>
+<p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
+e-embedded-image" src=3D"752689953c5cc2342712093c3881489b" data-image-src=
+=3D"/download/attachments/37519474/Imagedf.png?version=3D1&amp;modification=
+Date=3D1482465705000&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data=
+-linked-resource-id=3D"37519471" data-linked-resource-version=3D"1" data-li=
+nked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"Ima=
+gedf.png" data-base-url=3D"http://wiki.corp.chinahr.com" data-linked-resour=
+ce-content-type=3D"image/png" data-linked-resource-container-id=3D"37519474=
+" data-linked-resource-container-version=3D"3" width=3D"468" height=3D"53">=
+</span></p>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<p><strong><span style=3D"color: rgb(112,112,112);"><br></span></strong></p=
+>
+<p><strong><span style=3D"color: rgb(112,112,112);">=E8=A7=A3=E5=86=B3=E6=
+=96=B9=E6=B3=95</span></strong></p>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<pre class=3D"prettyprint hljs-dark"><code class=3D"hljs dns"><br></code></=
+pre>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: true; theme: Emacs" data-theme=3D"Emacs">CookieManager cook=
+ieManager =3D CookieManager.getInstance();
+cookieManager.setAcceptCookie(true);
+
+cookieManager.setAcceptFileSchemeCookies(true);
+if (Build.VERSION.SDK_INT &gt;=3D Build.VERSION_CODES.LOLLIPOP) {
+    cookieManager.setAcceptThirdPartyCookies(webView, true);
+}
+
+cookieManager.setCookie(url, cookieValue);</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<h3 id=3D"AndroidWebView=E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91-3.WebView=E5=
+=8A=A0=E8=BD=BD=E6=9C=AC=E5=9C=B0h5=E6=96=87=E4=BB=B6=E7=9A=84=E6=9D=83=E9=
+=99=90=E9=97=AE=E9=A2=98">3. WebView =E5=8A=A0=E8=BD=BD=E6=9C=AC=E5=9C=B0 h=
+5 =E6=96=87=E4=BB=B6=E7=9A=84=E6=9D=83=E9=99=90=E9=97=AE=E9=A2=98</h3>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<strong><span style=3D"color: rgb(112,112,112);">=E9=97=AE=E9=A2=98=E5=9C=
+=BA=E6=99=AF</span></strong>
+<br>
+<p>WebView =E5=8A=A0=E8=BD=BD /data/data/=E5=8C=85=E5=90=8D/files/index.htm=
+l =EF=BC=8Cwebview =E7=9B=B8=E5=85=B3=E8=AE=BE=E7=BD=AE=E4=B8=AD=E5=85=B3=
+=E9=97=AD=E4=BA=86 =E6=96=87=E4=BB=B6=E8=AE=BF=E9=97=AE=E6=9D=83=E9=99=90=
+=EF=BC=9A</p>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<pre class=3D"prettyprint hljs-dark"><code class=3D"hljs actionscript"><br>=
+</code></pre>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: true; theme: Emacs" data-theme=3D"Emacs">webSettings.setAll=
+owFileAccess(false);</pre>=20
+</div>
+</div>
+<p>=E5=AF=BC=E8=87=B4 =E6=9C=AC=E5=9C=B0h5 =E6=96=87=E4=BB=B6=E4=B8=80=E7=
+=9B=B4=E6=97=A0=E6=B3=95=E5=8A=A0=E8=BD=BD</p>
+<p>&nbsp;</p>
+</div>
+<div class=3D"wmd-preview-section preview-content">
+<h5 id=3D"AndroidWebView=E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91-=E8=A7=A3=E5=
+=86=B3=E6=96=B9=E6=B3=95.1">=E8=A7=A3=E5=86=B3=E6=96=B9=E6=B3=95</h5>
+<p>=E8=AE=BE=E7=BD=AE=E5=BC=80=E5=90=AF=EF=BC=8C=E6=88=96=E8=80=85=E4=B8=8D=
+=E8=AE=BE=E7=BD=AE=E5=8D=B3=E5=8F=AF=EF=BC=88=E9=BB=98=E8=AE=A4=E6=98=AF=E5=
+=BC=80=E5=90=AF=E6=AD=A4=E6=9D=83=E9=99=90=E7=9A=84=EF=BC=89</p>
+<h3 id=3D"AndroidWebView=E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91-4.WebView=E5=
+=86=85=E5=AD=98=E6=B3=84=E6=BC=8F=E5=AF=BC=E8=87=B4=E7=99=BD=E5=B1=8F=E9=97=
+=AE=E9=A2=98">4.WebView =E5=86=85=E5=AD=98=E6=B3=84=E6=BC=8F=E5=AF=BC=E8=87=
+=B4=E7=99=BD=E5=B1=8F=E9=97=AE=E9=A2=98</h3>
+<p>WebView =E5=9C=A8=E4=B8=8B=E9=9D=A2=E7=9A=84=E6=96=B9=E6=B3=95=E4=B8=AD=
+=E8=AE=BE=E7=BD=AE=E7=9A=84=E5=AF=B9=E8=B1=A1 =E6=AF=94=E8=BE=83=E5=AE=B9=
+=E6=98=93=E6=9C=89=E5=86=85=E5=AD=98=E6=B3=84=E6=BC=8F &nbsp;=E5=AF=B9=E8=
+=B1=A1=E8=A6=81=E5=8F=8A=E6=97=B6=E9=87=8A=E6=94=BE=E5=9B=9E=E6=94=B6 =E5=
+=90=A6=E5=88=99=E4=B8=8B=E6=AC=A1=E8=BF=9B=E5=85=A5 =E6=9E=81=E5=8F=AF=E8=
+=83=BD=E5=8A=A0=E8=BD=BD=E5=A4=B1=E8=B4=A5=E5=AF=BC=E8=87=B4=E7=99=BD=E5=B1=
+=8F&nbsp;</p>
+<pre><span style=3D"color: rgb(102,14,122);">&nbsp;</span></pre>
+<pre><span style=3D"color: rgb(102,14,122);">webview</span>.addJavascriptIn=
+terface(<span style=3D"color: rgb(102,14,122);">javaScript</span>,<span sty=
+le=3D"color: rgb(102,14,122);">space</span>); </pre>
+<pre><span style=3D"color: rgb(102,14,122);">webview</span>.setWebChromeCli=
+ent(<span style=3D"color: rgb(0,0,128);">new </span>H5ChromeClient());</pre=
+>
+<pre><span style=3D"color: rgb(102,14,122);">webview</span>.setWebViewClien=
+t(<span style=3D"color: rgb(0,0,128);">new </span>H5WebViewClient());</pre>
+<h3 id=3D"AndroidWebView=E7=9B=B8=E5=85=B3=E8=B6=9F=E5=9D=91-5.WebView=E7=
+=A1=AC=E4=BB=B6=E5=8A=A0=E9=80=9F=E5=AF=BC=E8=87=B4=E7=99=BD=E5=B1=8F=E9=97=
+=AE=E9=A2=98">5.WebView =E7=A1=AC=E4=BB=B6=E5=8A=A0=E9=80=9F=E5=AF=BC=E8=87=
+=B4=E7=99=BD=E5=B1=8F=E9=97=AE=E9=A2=98</h3>
+<p>webView=E6=9C=89=E4=BA=9B=E6=89=8B=E6=9C=BA=E7=A1=AC=E4=BB=B6=E5=8A=A0=
+=E9=80=9F=E6=94=AF=E6=8C=81=E4=B8=8D=E5=A5=BD =E5=AF=BC=E8=87=B4=E5=81=B6=
+=E5=8F=91=E5=8A=A0=E8=BD=BD=E5=A4=B1=E8=B4=A5=E7=99=BD=E5=B1=8F =E7=9B=AE=
+=E5=89=8D=E7=9A=84=E8=A7=A3=E5=86=B3=E6=96=B9=E6=A1=88=E6=98=AF=E6=8C=89=E6=
+=9C=BA=E5=9E=8B=E8=AE=BE=E7=BD=AE=E7=A1=AC=E4=BB=B6=E5=8A=A0=E9=80=9F=E5=BC=
+=80=E5=85=B3</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_2_20044125.1482911979859
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/752689953c5cc2342712093c3881489b
+
+iVBORw0KGgoAAAANSUhEUgAAApQAAABLCAYAAADOOBfvAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAADJpSURBVHhe7Z15cx3Hdbffj2OrKC5FgFgKG7EU
+NgLEQoDYitgBEiAIECAIkCApcCdIStYSbZYU24qt2JZkWZESW4pKskuypUSxXa5KUrKtOKlUvke/
+8/RV39t30DM9916AgMTzx1PAzJnp7umZ2/2bc7qn/9+3DxSpnWDj7KuqrfmE0yYIgiAIgiB8fRBB
+KQiCIAiCIBTEjglKQRAEQRAE4ZuBCEpBEARBEAShIERQCoIgCIIgCAUhglIQBEEQBEEoCBGUgiAI
+giAIQkFsu6BcXL+jxufPOW27mbmL6+rwkQ6nTdg6qpqOqPkrN9Xa3SfV8fGTzmNcfPGXL9X//O//
+acZPzjqPMbz7i/fV8y+94rRF8YMfvqbWb9522naCxhNnVfupq05bofQuP6Papq84bYbtzD8fepa+
+o6bvv62m7r2lRq//KCj/Y8H+4k3HJcF1/eMbb+j0ofxIf5bNRS71Q3pDV/42a98jRaVq4s4bam9Z
+jd5uGVtJ5284vvJc+vhji0+k94/f/one3l9Zn7Z/+2CJaj/5mBq98Zoav/O66prfUHvLU2kDadlp
+w5Gpy2n7nqA8R2eu63NHb/xINQ4vpW1Ans2jy+ntyqNDqvfc01nH+KhoG1D9ay+qyaCuTzz2PVXR
+Ppi2+fIfvvqqLvPkxptq8PLLqqZnKsvuqz9f/fiYXrqgmruPp7ePHB9Qc2vrwX08pLdnVq6oy/ef
+yaJ/KtVOdQyObrIZqpvbEqVvcPWvSdO/uPEddfrCY+pgRXXW+buBQvvf1Y0n0tcs/fiDwyso95dW
+qEeLSpw2H+V1TWry7IpavHonaCDyS2M7Ka2tV6fOX3LatkJQxqWfhELP3262onwjcwuqc2hMPXIw
+u6GElUtX1Kf/8rn64s9fqn98731V23pk0zEffPQrv6D85XvqxVe+57RF8XAJyqdVW9C5umyG3Sgo
+a7on9P/7q+pV3+pzqr5/btNxSYi7/v4Lz2+5oETMIFj3V9al95EHeZltBFHcPUFAGhG1t7RKiyPq
+xNibArHHNgJ1b1m1quufVVVdY2m7oXPulmoYnHfsv63P31d+WBXVtmrBZ9fv2M0fa1G3p7hMb+cq
+KLne8Vs/0WVCTJc0dgUC9Xza7sufvIvr29WekgpV2TGsRm++pmp7My+kvvpLUj9ldQ2qd2xa/08/
+ZttswVfZ0KLOXd9QRZWbBenI3Fkt8ML7DVH2JOkn6V/j8t9bXKrt7f277/N9W+XQQTCLoHxweAVl
+x8BI8FazuSNPQs/YlGrtGdCiof5ol/OYnYTrihWUrUedtqTEpZ+EQs/fbraifDRorudrbf2a+vBX
+H6uOnr7gpaZcTc6eVm+8/Q+bjksiKPPhYRKUSdjNghLwYCGq7GO2gm0RlAHdC/ezBFDr1FpwDYvp
+7VwEJSCuEFlmu3N+Q5fJbEfhEpR46vD8IebMPryHw+uZ9BGDbSfX03nkKigH1l7UIs5lS5K/EZRm
+uzoQg8PXMnZf/SWpn8aOHtXam7r3k2czYheM4NtfXqmWrt1RNUcyZbEpVFDGpZ+kf/XlT//e3j/k
+tO0kKUFZWP8LIigfLJGCkgd4X2mZ6h6ZVLVtHfrtiDcl17FRzF++pvaXVeqHnYfetvHAHO0fVvOX
+rqkLd55QJ5fXst7AfPZD1bV632pgO3/zvho8dUZ7U409jgPBj3TlzuNq7e5TWeEAQq/mGPJv6u5V
+J5cu6tDA/KXrqvRwQ9peVFWtTszMq+Wbd9Xq7cd12OHRQ6WJ048jyflx+cPBiip1Zu2afos9dX5N
+Xdh4Ql+TsfN2Oja/pOvPzqOx45i2P1pcovqnZ/Wb8cqt+0GDupyu/0Kvz4b7Fm449gbX8fnv/qAq
+6jL1TXneefcXwZt4ticzSlB+8tvP0iFxaOvuybJ/+OuP1fDklHr3n95Tf/7yr+rjTz7NOsYWlHsO
+FuvtZ1/4btruA68ZITs8J+O3f6q65u+qPYfK0/aBiy+ostZe3QlPbLyhBi+9rIoOt2bOr6hT3Yv3
+9bl0vpxvC5Z9FbXB/pfUobp2dfz8MzqNgYsvpu10yoTx8CSNXP+hOjK5ph6xvBhDl1/OCgfaeYMv
+fx++/A9UN+lQM+FGjiHtvaXJQ2+2oDxY06QGLn03S/hxTXjuzHbzyLmskK7v+g1RgrLQ+kEMco7Z
+HrryiiqqzbxY5eShDOq6IxCG3Qv30vbKtiFdt4SlTRjdhUtQlrX0bA7JB+2FrtOv0iLkXVx/VN9b
+PIy5CEq8ijqtoNwue5L8w4KSEDl2I0J99eernxOz87pN6xoeV01dvWr5xoY6PnEqbUfwtfT0q9mV
+y5vEpk0hgtKXflz/avDlz/WRj8sWB30A/Qd9L31E3+RMVjje1//44Nie0Sn9lz7q5Lns/j+uf7KJ
+EpRx5Z+9cCXdJ7X1DanGzlS/0NY3qAZPnkmnIWwmUlBSiQuP3dQ/JCqcG1PV6G50XSD4GEfC/3uC
+m08aj1h2HpSpxVV1qKZO7S0pV8Onz+rtpPbh4Ac/eHJOPwQHyqu0+CyuzrzRJgHxFOeh5Adb3tCk
+Q/7kxwNo7NQPP8RHD5Xp8o2eWVTHAvFtpxGXfhLizvflzw8aocmPmRcBQsq87Rp77/i0PmdvSZm+
+RsIm/G/so3OLqnNoNHipKNd1zNtyuCyFXN+39geiuLJaza5eUTUtqXE9hr4TI+rVv/+x/h+R97O3
+31X//h9f6NC3LTIhiYfy93/8o1NQfvybT1X3wKA6ELyIfP/VH6nXXn8jbTeC8kBZhXrz5++oGxuZ
+zj8JVZ2jusPfc6hCPVpSqTrP3NGixtgRlIz9OtRwVHeGHbM3tNfE2PsvvKAFKecerG7UojEsKBEz
+7C9p6NRhVNNBU7cIITx2j5ZW6rF1epxgRAeLKAgLKl/+cSTJn+vFjshEBBDOPBDkY6cTB4ISAWHo
+RrAHQsXYtfiIEZQ2rus3RAnKQuoHCLMipBn3yb20vYuAILKvDzjO2O0xlMD1k6adxqGGDnXs7OP6
+ZQNvoglP27gEJaHfvvPPZu0D0kG88z+CkvvWMXdT1fWfVhXtJxILygNVjXrsq8sGSfIPC0pgGMHB
+r+6jr/7AVz+0+QiPstrg/k5kj+9G8C1evR0ImZWgnb0fvOBvFjNQiKCMS9/Xvxp8+eOhHJ5dUPuC
+PsRld8HvGz1A/4vTCSGHc4dtc4yv//Hh6/+T9E/gEpS+8iMucaSZ8xGz/E89NXf3pdMRNhMb8qay
+eTuYv3Jd3wTXMVF0nhjL8l6B7bbngbFvNGKQvJLaESGUizfJtuODzrcTHz5BiWfWbNcGZeHhMts8
+xLy96DEs63f0pJLw4OjtFJS+/PlBX7z7VJZItKGxZOwi/z9ysFg3XiXBj5dtvJeX7mV7HwFPrZ1G
+Idd3NGjISJOGMzyZYm5hSd2+97j+/7effa49ifyPN7GyPlt0FCIoJ2Yy542fmlUffPjr9DaC8v6T
+T6v3PvhQffLpZ9pLaWxJQCjV9s3qDotQ3eTdn2V5pBCUTEow24gWxAv/491kosK3rXGl4ZAqnSNp
+2iLKcLCmWXeSdr0W1x3RHa59nCEsqJLkH0eS/FNeqFfU0dlrqvb4qewJJQmwPZSIVkTR4KWX0nYE
+xHYJykLrx9AXpM3YQV48wmI/Fw8l3lZeYMLHGLgfCF7C7GGbS1CWNnNvssccI7Z0nX4lWrWgDJ5B
+0kbcEZJOKigR4TqtCA9lkvw3eSiN/as0ffVn46of2kPawCO9A6p/akaLDBwXxk67RdQKMcdkwrEz
+2ZOGDIUIyrj0ff2rwZf//uCFef7KDX1+ZZP7NxCGfiLVF2R+34w3ZSKM2fb1Pz7i+v+k/RO4BKWv
+/PVHu7V4RVPg+cSxxrELQT0VV+XmtHrYiBWU/Ii6ToxrzxzhX9cxUXAjy+tTb5OAB9F2F4cfmNLa
+BrV8I9Ph+uzAG1llY4sWJ8yA6wp+ZLbdR0NHtw4puGzh/A+3tut9ZpsHbnx+WdW0tum3WMba8PAZ
+O8Sln4S483356x+04wdmKK9r1CIUDyHeSe6xeWngB0s42zf7r9Dr4wdLeMHMPDTMLpxVTzzzrPYO
+fv5vfwjecBvV6NQp9Z9f/GmToPznDz/KW1Da541MTet9ZhtBSSj89Pyi9l7mEu4GOny8RoS18eQc
+7p0OxGUmJImgtIVKeetxvY//CQcz49fYwCkoIwSiS9AxsSGcpiEsqJLkH0fy/Iu1oKofOKNn+5JH
+tj2a8BhK0pq8+5b2CLONB8wWLC1j5/MSlIi+sKAstH4MnNM0sqS9fOE8chGUVR3DetKKXd9hBwCC
+fuxWyutv4xxDGYg2XlYI65t9hLSH13+Q3jaCkv91uD8oa25jKF+KnESVJP+woKQubLuv/pLUD21j
+Y1ePFmW8gNuCC8FnvFV40FZu3dPhXWM3FCIo49L39a8GX/70ncOnFxIPFwO8hoSwbY8oEzQZmma2
+ff2Pj3D/S39FtJT/k/ZPkApfZwtKX/kZRnD+5j0dAUT/4KghBI4X2BwvuIkUlIxRICTKD4+xebiY
+Xce54E2OsX32vpKaerUc3BDzQ+aB4WFHDHE8P6Ahy2UeZycNbA0dx7Qdb113cONzFTeEMnDLI1bx
+0hFGMDafoFy6tqHfZMi7oqFZj7UMC8q49JMQd74vf98PuntkQnsoq5pb9Q8sbOeNGO9jyeF6PYOQ
+PMJvwIVeHxBmCP/gu44PqJ++kQqJfedvntOfCPr5O+/qfWFB+fqbb6mnn3te7QvehF2zwCFfQbnx
+xJP6f4QtYyxPzbvHKbkYufZ3QSd4QnsqCa31Lj2VWFAiDOgw8arheeF8vHlJBSW/D0KyfEoHbxCz
+ick/atLKZkHlzx+wcRzizt7vyx87Y/4QQog+6qgpEFd9K9lhzqj0wRaUeCIpqz3uDq8wQpW0Ccfy
+eZh8BCXjElsnLup08Eym9hdWPwby5FM2WgwezJ6lm4ugpD4ZQ5qZ5FOsPat4fhHYeLGPTF8Onr9k
+HkpA5FJuXoZSs6y/r+r6LI++JSgZx4sYy0VQ4p1nyIaZ5a3Dz8E1MVYSuy9/6hVBybVVdYzq/GuO
+ZV4w4usvWf1MLaVCrHgow21kSvBlPutD/zN97mLWMeATdFH2uPST9K8GX/6pMZS5hXHJY+7CuhqY
+ntNil6FL9D92/70VgnIsEHKko/v/4Nrt9JP0TzCxsKzHvtJPMu+AfUnKf3b9VnAPVrXDykQCJxai
+x8oKKWI9lPnCDXCFAFD4VU2piT08MEOn5nVogbcvQteIWHOsz87bGl46JofgCufhQtgYe1L4LASe
+T9zdMyuX0m8tPkHJDEBm3/GmQzmO6IcuW1BCVPpJiTrfl7/vB80AY+wmdEAdTi6upCf2UNd9QUOK
+9/LixpP6TY9vRobTKfT6aPDCs7yZePP5736v6lrcAtGmq29Ah8X/9Jf/cs4Ch3wFpT3Lu6WzS6fT
+2JZs5iGdHLNO8dTRUabC30kFZZEqrm3T3jHOR2i1jK8mFpRAR8yYTDpavtPILGI6btexLkHlyx+M
+YOo9lxLeNr78ESHUCxMjgJCjPSkF4tJHbBDiBPJgaAFjGY0dMY+ox5PIeE08xPkISiaeEH6lHpiE
+k95fYP0YsNuTaQwIInN9Bspp7LagBCaZcL0IX7bxElNHetJTUD98hsee9OT7DiXCLvMdyNeyZqCD
+LSiBvHIRlMA9YhwxM7qp42orbO/Ln3qjzHgy9XcoLTEJvvrz1Q+OCiY98j/CJvxZnrDgY5w9HjTz
+ZZC471DaJBWUdvpJ+leDT1AyhhLvpssWByKPqBZ9M/nSV9h1tBWCknGMZx+75ez/k/ZPeHGZLEo/
+ObGYEYS+8jNmE23BywcvE0TzGLNp7IKbbRGUSeCBcb1RGHx2oTDwDNJomm3GujArr669O+u47Sbq
+O5Rnl1fVRx9/ogUjs77xWg6NZU96EgRBEPKD0DGCMx9BKQgudlRQhkOdNj67kD94EfFIMi6EUAAN
+S8rjycdz/eNSthLeKhn0zADu8Eo5iMrffPqv6su//rf65fsfqOaOziy7IAi7D746EPYOGvD4uM4R
+Hix4QPEgMhZzN66UI3w9EUH5kEI4hVnyNCqMx2GMCGMiXccKgiAIgiDEsWOCUhAEQRAEQfhmIIJS
+EARBEARBKAgRlIIgCIIgCEJBiKAUBEEQBEEQCkIEpSAIgiAIglAQD0xQsoTR4KnNS0P54Ov2LNzO
+skh81qaufWs+HcOHuM0HZ7+Js8l91/cgr5/7NzB92mnbKXL5isBWlD/f519ww3JxLBvnsoXZjc+f
+gXX47TX4ha1nN99/Qfgm4RWUrPHJV/pdtlzIt0Pla/YskUQZWMg+lzVHk+BaPN7A+p6swOOyJaHQ
+87eCuOsDn30roEHnQ+ou23YSV/+5CspCy78bBeVueD7zJVdBuRPPnw9W++JzXaz2EV6JZTew25+P
+pOXbrfdfEL5peAUlSzOFl8bLh84TY3l1qPNXbqjKhuzlpLaSOEHFdRfSoBZ6/lawGwTlThFX/1pQ
+frVM2oMg3+d/O9kNz2e+5CIodys9Y1OqtWdArxZVf7TLecxOstufj6/z8ysI30QiBSXLHu4rLdPr
+ada2daiiypqchB1f32ftzNXbj6u5tas6rGN3qKzF2T89q9fRXLl1X69DTR7GzjqqfHTbhGWBNTmN
+nVA4x/BRbvIgfbMONXD8vtLy9Pax4Dpca6m6BBVLErKO59rd1DrXrvzjSHI+x+B9PX/zfmot0ckZ
+vWqNnU4cvus35Cso48rHuqmsssP/rCvb2JlaJ5v1wQdPpu7x/OXrWddeejh7nXUEXU1rmzp5bk3f
+5/lL17OOYfUe8mdFHzudxo5jWem4SFL/5N/U3atOLl105u8rP2vVslQlXqZT59f0WrGkmbHHP/8+
+SIsl0eYvXdPDPfCy2L8P3/2PK5+vfoqrDut7bi+Hua+kfNO+OL61v0i19w8FaV7Xec9fvpa11q7v
++ffZbUHJyk9s90/N6HzZ57t/vvbnUHWtrnOeP8rAvdvq6Ah1sr+sUotJRKVt891/n72Q8if5/RTy
+/IHv9x13f5KUbyfbH0F4WIkUlIgElsRjQXp+1AiPqsZW57Eu5i6s6waHjojGjUbF7lBH5xb1YuuI
+PjoKVm5xvW2eXb+lF3gP76d8LT39QSNWpvYGeYyeWdSi0dj58ecrKA00HoW8AUedT6dHvoRhEO00
+lDT+uYRlfNdvyEdQ+spH586LhjmfRpn/h2cXgvvYl07HwPPjatDpUMsbmvRwhuHZed2AG3vv+LS+
+JtYY5xjCgvxvp+Ej7v758rdxlZ8Ok46U55oXLYTW/qCjM3bf8++D8k0trqpDNXX6/g6fPqu3jd13
+/33l02nE1A910drbn95GvB2fOJV1TBzdJ8aDDv6GbjOo3+rmNnUkePnA5nu+kvw+jKDcEwgPwsas
+B29sYVz3z9f+8DyQH7YD5VVavBVXH85KoxB4JmZWruj/uQbKiDA2dt/999m3ovxxz0ehz5/v952k
+f0jaPu9U+yMIDxuxIW8ac97Q8DKYN/8k8PbKW98jBzPrttpjyHj7u3Qv++0SOMccb4gSlDQyeMf0
+GKT1O8Hb6pP6LdnYd7OgLAk6gdS1ZuqnrK5BT5Sxj4vDd/2GuOsDl91Xvvqj3brzoqPHc8CLB8cu
+BAIC75Y5xxDVoOP5Ntu1QRkoi9mmgTcigedo8eptXS5jT0Lc/fPlbxMlKFl/3NXJ+J7/JFA++74g
+Bvgtmm3f/Y8rnyGufsrrGrXXxmzTBrjubRRMoDvc2u60+Z6vJL8PBGXP6JQWZZTNFmNhwvcvSftT
+09Km0z0RPIdtxwf1s25sWwFDIML5ExUydt/999m3ovxxz0ehz1/c7ztp/5C0fd6p9kcQHjZiBSWe
+KDpC3twID7qOccHbN2EYe19YUBKuSLIofZSgRNCMzy/rsAUhELwpiBtjp0Fiv9lmvJJLUKbCt5mG
+xaaho1vNrlx22pIQdT5eBUJAdifIAPNwncXhu35D3PWBy+4rH2G68zfvaQ8F95WOhBA4Dbc53iaq
+QbfzRXywz2wjaOikZlevaO8Az2AuLzUQd/98+dtECspQB2fwPf9JCJevtLZBLd+4m9723f+48hl8
+z/f0uQu6XiqbWvX/rmOioM7wSrpsvucrye8DQcn1ISro/Al3G1uY8P1L2v6Qf2Vji/aEzq2tB/cw
+2guaK4gXu13Dg2iGi4Dv/vvsUGj5456PQp+/uN930vuTtH3eqfZHEB42IgUlY1hw+fMjYmwMIQjX
+cS5oyHijwytI41DR0Kzflu0OdezMkn67LDlcr2c4coz9hm6IEpR4QPCU8abMuYyFsxs03pppSLHX
+tXfrxtYlKCcWlnUoj+PwLNm2stpGHbahseYtFaFg231EnU+dEhJl9jrhoqLKal3+ISuk58N3/Ya4
+64uyJykf92V6aVV3WMZTMbFwPm23yadB7x6Z0B6CquZWLTDM/lyIu3++/G1yFZRJnn8flGVk7qzu
+rAlZTi9dyKp/3/1PIih9zzdeLtIcmpnXedk2H7zA4eGkbIR0+ds7flLbfM9XkucPQWmGXZA+eUWV
+0XX/4tof8qfuGwKxSv1Tx4Tww+KFe8t95ndg7/fB/WTsob2vpKZeLQflJG+2ffc/zp60/D7ino9C
+nz/f7ztJ/5C0fd6p9kcQHjZiPZSFwI8d7xeeBhoyOhO7Q0Ww9k3N6Le/ixvBm2BwrD1o3xA5hrKj
+J2jU7uj0eVtmfJbdoNHY0ejh1WBsH2/QLkFJ2gzmJh0mUYTtvWPTWowSbptZuZTlNUlC1Pl0Arz1
+rty6pxs86iKXT4f4rt/gu74ou698jNliYDxhSRpc3uYZ82TsNvk06EzwoUMyoS/CeZOLK/rlxhyT
+hKj69+Vv4yq/r8P0Pf8+KMvQqXktWLgHhC75zRi77/4nEZTge765BoY05Prc81wQ1uVcysHEJNtj
+6Xu+/M9f9ixvwpEc5xon6Lp/vvaHySTUK884zx7iBuFip5EWlDl6b3kBQzCF91POqqbUxEff/ffZ
+k5Q/CVHPR6HPn+/3nbR/SNI+u+6/7/e/Ve2PIDxMbJugFIRCGDw5p70rZpuxWMwaxdtsH/dNhc7N
+5bF/0DDs5djo5slewvbiu/+75fnIl93++37Y2x9ByAcRlMKuAy8DHgHGZRJSwxOU8ohs6PCn65xv
+GmEPyoOGECJeG8bKsqCA6xhh+/Dd/51+Pgpht/++pf0RhPwQQSnsSvhMCOMOCTsx3owxmoSRXcd+
+E9lJwUBoefX2fV3/jKN0HSNsL99kQQm7/ff9sLc/gpAPIigFQRAEQRCEghBBKQiCIAiCIBSECEpB
+EARBEAShIERQCoIgCIIgCAUhglIQBEEQBEEoiG0XlHyMlg9n8+Hr41+tlJGEL/7ypfqf//0/zfjJ
+zR8kt3n3F++r5196xWmL4gc/fE2t37zttO0EjSfOqvZTV522Quldfka1TV9x2gzbmX8+9Cx9R03f
+f1tN3XtLjV7/UVB+1tnNrO2cC67rH994Q6cP5Uf6s2wucqkf0hu68rdZ+x4pKlUTd95Qe8tSayq3
+jK2k8zccX3kuffyxxSfS+8dv/0Rv76+sT9u/fbBEtZ98TI3eeE2N33lddc1vqL3lmfWaSctOG45M
+ZVZK2ROU5+jMdX3u6I0fqcbh7A9tk2fzaOZD1ZVHh1TvuaezjvFR0Tag+tdeVJNBXZ947Huqon0w
+bfPlP3z1VV3myY031eDll1VNz1SW3Vd/vvrxwSeT+O6gywaPFpWoEzPz+sPhyzc2VPfwRJbdd77P
+zhrlZg1rg70wA8udmv3MyD95bi3rw+W+8vnOZ+UdZjizRGSSJXIfNHzI3JT/6zzb3ZDr0qwGVjc7
+ubymF/Dgs0Z17Z3O43LlYapf6m9g+rTTli+++nuQ9bsd1xeFV1DuL63QjZPLloSRuQW9hNUjBw9t
+sq1cuqI+/ZfP1Rd//lL943vvq9rWzSshfPDRr/yC8pfvqRdf+Z7TFsXDJSifVm1B5+qyGXajoKzp
+TnWC+6vqVd/qc6q+P7P0XC7EXX//hee3XFAiZhCs+yszS7aRB3mZbQRR3D1BQBoRtbe0Sosj6sTY
+mwKxxzYCdW9Ztarrn1VVXZvXau6cu6UaBucd+2/r8/eVH1ZFta1a8Nn1O3bzx1rU7Sku09u5Ckqu
+d/zWT3SZENMljV2BQM2sxOTLn7yL69vVnpIKVdkxrEZvvqZqezMvpL76S1I/ZXUNeqUV/uezMLbN
+J/hYipYlF1nRh3XGWRGI9biNvVBBaWAJxY7BzStQIQhZzYX/WZ6ya3g8eHG/kbb7yuc7X+8vLtX5
+t/efyNq/m0Dw5tshUy+sIOSyPWjyFZSsJsUSpfTRfC+W/tp1XL7E1W+h9fcg698nKPmQvctWKL7n
+s5DnNynbeX1hvIKyY2BEVTdvFnpJoUFynb+2fk19+KuPVUdPX/AjKFeTs6fVG2//w6bjkgjKfHiY
+BGUSdrOgBDxYiCr7mK1gWwRlQPfC/SwB1Dq1FlxDZj38XAQlIK4QWWa7c35Dl8lsR+ESlHjq8Pwh
+5sw+vIfD65n0EYNtJ9fTeeQqKAfWXtQizmVLkr8RlGa7OhCDw9cydl/9JakfPlbNkqz8P3k2e1nS
+OMG3v7xSsRwgYs3swzO0uH4nvf0gBSXsC9rQtbtP6Y9yJylf3PlmH9D+t/cPZe3bTRTSIdMv7RZB
+yTKl+QhKXgIqG1LLdW4HcfVbaP09yPrPt34LZTcIygdJpKBkWa99pWWqe2RS1bZ1qKLKmrweXG4i
+Kw7Y+/YeKlWf/+4PqqLOCtEUl6h33v2F2lOU7cmMEpSf/PazdEgc2rp7suwf/vpjNTw5pd79p/fU
+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
+/p6wigAAAABJRU5ErkJggg==
+------=_Part_2_20044125.1482911979859--
